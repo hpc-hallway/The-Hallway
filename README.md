@@ -1,2 +1,5 @@
-# web
-Website project for hpc-hallway.org / hpc-hallway.de
+# HPC Hallway
+
+## Weekly informal, open-to-anyone huddles
+
+## Possibly special during conferences
