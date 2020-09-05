@@ -1,7 +1,6 @@
 ## Welcome to HPC Hallway
 
-Weekly virtual huddles for informal, open discussions around HPC, AI, Cloud, and related topics started by Andrew Jones (follow him on twitter @hpcnotes).
+As follow-up of the weekly #HPCHuddles started by Andrew Jones [@hpcnotes](https://twitter.com/hpcnotes).
+A place for informal discussions around HPC, AI, Cloud, and related topics.
 
-We now maintain a Slack for follow-up discussions or chatting during conferences and alike.
-
-You can join the Slack using [the join link](http://tiny.cc/join-hpc-huddle-slack)
+### Join the Slack for informal discussion following [the join link](http://tiny.cc/join-hpc-huddle-slack).
