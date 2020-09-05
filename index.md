@@ -4,5 +4,4 @@ Weekly virtual huddles for informal, open discussions around HPC, AI, Cloud, and
 
 We now maintain a Slack for follow-up discussions or chatting during conferences and alike.
 
-You can join the Slack using http://tiny.cc/join-hpc-huddle-slack
-
+You can join the Slack using [the join link](http://tiny.cc/join-hpc-huddle-slack)
