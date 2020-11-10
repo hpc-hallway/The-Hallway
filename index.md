@@ -5,7 +5,7 @@ A place for informal discussions around HPC, AI, Cloud, and related topics.
 
 ## We will have daily huddles throughout SC20 at 1pm Atlanta time!
 
-The daily huddles will run from 16th to 19th November [here](https://aka.ms/hpc_hallway).
+The daily huddles will run from 16th to 19th November from 1pm to 2pm Atlanta time at [this link](https://aka.ms/hpc_hallway).
 Come and join the conversation - live during the #HPCHuddles or find link collections through our slack channel.
 
 ### Join the Slack for informal discussion following [the join link](http://tiny.cc/join-hpc-huddle-slack).
