@@ -1,13 +1,15 @@
 ## Welcome to HPC Hallway
 
-As follow-up of the weekly #HPCHuddles started by Andrew Jones [@hpcnotes](https://twitter.com/hpcnotes).
-A place for informal discussions around HPC, AI, Cloud, and related topics.
+A place for **informal discussions** around HPC, AI, Cloud, and related topics.
+We strongly encourage and gladly welcome new people to participate, from any background, recognizing that diversity and inclusivity makes our community better.
 
-### Join the Slack for informal discussion following [the join link](http://tiny.cc/join-hpc-huddle-slack).
+The HPC Hallway resulted from the weekly #HPCHuddles started by Andrew Jones [@hpcnotes](https://twitter.com/hpcnotes) on twitter in March 2020.
+
+### Join our Slack following [the join link](http://tiny.cc/join-hpc-huddle-slack)
 
 ## HPC Huddle
 
-The HPC huddle is an open, informal weekly meeting of people using [this link](https://aka.ms/hpc_hallway).
+The HPC huddle is an open, informal weekly online videocall of people - join us using [**this link (https://aka.ms/hpc_hallway)**](https://aka.ms/hpc_hallway).
 Come and join the conversation - live during the #HPCHuddles or find link collections through our slack channel.
 The **huddle** has some simple **rules**: (1) be kind to each other, and (2) give everybody a chance to speak.
 
@@ -18,14 +20,14 @@ To make participation possible to as many people as possible, it does change the
 
 | Day | Date (mm/dd/yy) | Time |
 |-----|------|----------|
-| Friday | 12/04/20 | 05 pm UTC |
-| Friday | 12/11/20 | 06 pm UTC |
-| Friday | 12/18/20 | 09 am UTC |
+| Friday | 2020 Dec. 04 | 05 pm UTC |
+| Friday | 2020 Dec. 11 | 06 pm UTC |
+| Friday | 2020 Dec. 18 | 09 am UTC |
 | Attention | Christmas | Break |
-| Thursday | 01/07/21 | 04 pm UTC |
-| Thursday | 01/14/21 | 05 pm UTC |
-| Thursday | 01/21/21 | 06 pm UTC |
-| Thursday | 01/28/21 | 09 am UTC |
+| Thursday | 2021 Jan. 07 | 04 pm UTC |
+| Thursday | 2021 Jan. 14 | 05 pm UTC |
+| Thursday | 2021 Jan. 21 | 06 pm UTC |
+| Thursday | 2021 Jan. 28 | 09 am UTC |
 
 ### General scheme
 
