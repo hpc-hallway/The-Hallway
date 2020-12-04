@@ -18,7 +18,7 @@ To make participation possible to as many people as possible, it does change the
 
 ### Next Huddles
 
-| Day | Date (mm/dd/yy) | Time |
+| Day | Date  | Time |
 |-----|------|----------|
 | Friday | 2020 Dec. 04 | 05 pm UTC |
 | Friday | 2020 Dec. 11 | 06 pm UTC |
@@ -29,17 +29,4 @@ To make participation possible to as many people as possible, it does change the
 | Thursday | 2021 Jan. 21 | 06 pm UTC |
 | Thursday | 2021 Jan. 28 | 09 am UTC |
 
-### General scheme
 
-The general scheme is as follows
-
-| Day | Time |
-|-----|------|
-| Friday | 04 pm UTC |
-| Friday | 05 pm UTC |
-| Friday | 06 pm UTC |
-| Friday | 09 am UTC |
-| Thursday | 04 pm UTC |
-| Thursday | 05 pm UTC |
-| Thursday | 06 pm UTC |
-| Thursday | 09 am UTC |
