@@ -5,7 +5,10 @@ We strongly encourage and gladly welcome new people to participate, from any bac
 
 The HPC Hallway resulted from the weekly #HPCHuddles started by Andrew Jones [@hpcnotes](https://twitter.com/hpcnotes) on twitter in March 2020.
 
-### Join our Slack following [the join link](http://tiny.cc/join-hpc-huddle-slack)
+### Join our Slack following [the join link](https://join.slack.com/t/hpc-huddle/shared_invite/zt-kp8y1m2v-jvcy8ZbJBtqxtAJ1Am9bPA)
+
+*(If the Slack join link has expired, please let us know by contacting [@kehoste](https://twitter.com/kehoste) or
+[@jplehr](https://twitter.com/jplehr) on Twitter!)*
 
 ## HPC Huddle
 
