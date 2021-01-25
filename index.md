@@ -23,13 +23,14 @@ To make participation possible to as many people as possible, it does change the
 
 | Day | Date  | Time |
 |-----|------|----------|
-| Friday | 2020 Dec. 04 | 05 pm UTC |
-| Friday | 2020 Dec. 11 | 06 pm UTC |
-| Friday | 2020 Dec. 18 | 09 am UTC |
-| Attention | Christmas | Break |
-| Thursday | 2021 Jan. 07 | 04 pm UTC |
-| Thursday | 2021 Jan. 14 | 05 pm UTC |
-| Thursday | 2021 Jan. 21 | 06 pm UTC |
 | Thursday | 2021 Jan. 28 | 09 am UTC |
+| Friday | 2021 Feb. 05 | 04 pm UTC |
+| Friday | 2021 Feb. 12 | 05 pm UTC |
+| Friday | 2021 Feb. 19 | 06 pm UTC |
+| Friday | 2021 Feb. 25 | 09 am UTC |
+| Thursday | 2021 Mar. 04 | 04 pm UTC |
+| Thursday | 2021 Mar. 11 | 05 pm UTC |
+| Thursday | 2021 Mar. 18 | 06 pm UTC |
+| Thursday | 2021 Mar. 25 | 09 am UTC |
 
 
