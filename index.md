@@ -19,7 +19,7 @@ The **huddle** has some simple **rules**: (1) be kind to each other, and (2) giv
 We now have agreed on a schedule the huddle follows.
 To make participation possible to as many people as possible, it does change the day of the week and the time of the day.
 
-### Next Huddles
+### Next Huddles! Add them to your Calendar: [iCal](hpc-hallway.ics)
 
 | Day | Date  | Time |
 |-----|------|----------|
