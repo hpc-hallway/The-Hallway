@@ -14,7 +14,7 @@ The HPC Hallway resulted from the weekly #HPCHuddles started by Andrew Jones [@h
 
 The HPC huddle is an open, informal weekly online videocall of people - join us using [**this link (https://aka.ms/hpc_hallway)**](https://aka.ms/hpc_hallway).
 Come and join the conversation - live during the #HPCHuddles or find link collections through our slack channel.
-The **huddle** has some simple **rules**: (1) be kind to each other, and (2) give everybody a chance to speak.
+The **huddle** has some simple **rules**: (1) introduce yourself, (2) be kind to each other, and (3) give everybody a chance to speak.
 
 We now have agreed on a schedule the huddle follows.
 To make participation possible to as many people as possible, it does change the day of the week and the time of the day.
