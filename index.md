@@ -5,7 +5,7 @@ We strongly encourage and gladly welcome new people to participate, from any bac
 
 The HPC Hallway resulted from the weekly #HPCHuddles started by Andrew Jones [@hpcnotes](https://twitter.com/hpcnotes) on twitter in March 2020.
 
-### Join our Slack following [the join link](https://join.slack.com/t/hpc-huddle/shared_invite/zt-kp8y1m2v-jvcy8ZbJBtqxtAJ1Am9bPA)
+### Join our Slack following [the join link](https://join.slack.com/t/hpc-huddle/shared_invite/zt-m5bpwjef-Z6P68Bpls0NW6ZKwQsacJw)
 
 *(If the Slack join link has expired, please let us know by contacting [@kehoste](https://twitter.com/kehoste) or
 [@jplehr](https://twitter.com/jplehr) on Twitter!)*
@@ -23,14 +23,17 @@ To make participation possible to as many people as possible, it does change the
 
 | Day | Date  | Time |
 |-----|------|----------|
-| Thursday | 2021 Jan. 28 | 09 am UTC |
-| Friday | 2021 Feb. 05 | 04 pm UTC |
-| Friday | 2021 Feb. 12 | 05 pm UTC |
-| Friday | 2021 Feb. 19 | 06 pm UTC |
-| Friday | 2021 Feb. 26 | 09 am UTC |
 | Thursday | 2021 Mar. 04 | 04 pm UTC |
 | Thursday | 2021 Mar. 11 | 05 pm UTC |
 | Thursday | 2021 Mar. 18 | 06 pm UTC |
 | Thursday | 2021 Mar. 25 | 09 am UTC |
+| Friday | 2021 Apr. 02 | 04 pm UTC |
+| Friday | 2021 Apr. 09 | 05 pm UTC |
+| Friday | 2021 Apr. 16 | 06 pm UTC |
+| Friday | 2021 Apr. 23 | 09 am UTC |
+| Thursday | 2021 Apr. 29 | 04 pm UTC |
+| Thursday | 2021 May  06 | 05 pm UTC |
+| Thursday | 2021 May  13 | 06 pm UTC |
+| Thursday | 2021 May  20 | 09 am UTC |
 
 
