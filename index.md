@@ -23,17 +23,18 @@ To make participation possible to as many people as possible, it does change the
 
 | Day | Date  | Time |
 |-----|------|----------|
-| Thursday | 2021 Mar. 04 | 04 pm UTC |
-| Thursday | 2021 Mar. 11 | 05 pm UTC |
-| Thursday | 2021 Mar. 18 | 06 pm UTC |
-| Thursday | 2021 Mar. 25 | 09 am UTC |
-| Friday | 2021 Apr. 02 | 04 pm UTC |
-| Friday | 2021 Apr. 09 | 05 pm UTC |
-| Friday | 2021 Apr. 16 | 06 pm UTC |
-| Friday | 2021 Apr. 23 | 09 am UTC |
-| Thursday | 2021 Apr. 29 | 04 pm UTC |
-| Thursday | 2021 May  06 | 05 pm UTC |
-| Thursday | 2021 May  13 | 06 pm UTC |
 | Thursday | 2021 May  20 | 09 am UTC |
+| Friday | 2021 May 28 | 04 pm UTC |
+| Friday | 2021 June 4 | 05 pm UTC |
+| Friday | 2021 June 11 | 06 pm UTC |
+| Friday | 2021 June 18 | 09 am UTC |
+| Thursday | 2021 June 24 | 04 pm UTC |
+| Thursday | 2021 July 01 | 05 pm UTC |
+| Thursday | 2021 July 08 | 06 pm UTC |
+| Thursday | 2021 July 15 | 09 am UTC |
+| Friday | 2021 July 23 | 04 pm UTC |
+| Friday | 2021 July 30 | 05 pm UTC |
+| Friday | 2021 Aug. 06 | 06 pm UTC |
+| Friday | 2021 Aug. 13 | 09 am UTC |
 
 
