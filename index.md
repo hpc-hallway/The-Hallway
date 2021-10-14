@@ -23,12 +23,12 @@ To make participation possible to as many people as possible, it does change the
 
 | Day | Date  | Time |
 |-----|------|----------|
-| Friday | 2021 Aug. 13 | 09 am UTC |
-| Thursday | 2021 Aug. 19 | 04 pm UTC |
-| Thursday | 2021 Aug. 26 | 05 pm UTC |
-| Thursday | 2021 Sep. 02 | 06 pm UTC |
-| Thursday | 2021 Sep. 09 | 09 am UTC |
-| Friday | 2021 Sep. 17 | 04 pm UTC |
-| Friday | 2021 Sep. 24 | 05 pm UTC |
-| Friday | 2021 Oct. 01 | 06 pm UTC |
 | Friday | 2021 Oct. 08 | 09 am UTC |
+| Thursday | 2021 Oct. 14 | 04 pm UTC |
+| Thursday | 2021 Oct. 21 | 05 pm UTC |
+| Thursday | 2021 Oct. 28 | 06 pm UTC |
+| Thursday | 2021 Nov. 04 | 09 am UTC |
+| Friday | 2021 Nov. 12 | 04 pm UTC |
+| Friday | 2021 Nov. 19 | 05 pm UTC |
+| Friday | 2021 Nov. 26 | 06 pm UTC |
+| Friday | 2021 Dec. 03 | 09 am UTC |
