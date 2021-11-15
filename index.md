@@ -29,6 +29,8 @@ To make participation possible to as many people as possible, it does change the
 | Thursday | 2021 Oct. 28 | 06 pm UTC |
 | Thursday | 2021 Nov. 04 | 09 am UTC |
 | Friday | 2021 Nov. 12 | 04 pm UTC |
+| *Monday* | 2021 Nov. 15 | 08 pm UTC |
+| *Wednesday* | 2021 Nov. 17 | 07 pm UTC |
 | Friday | 2021 Nov. 19 | 05 pm UTC |
 | Friday | 2021 Nov. 26 | 06 pm UTC |
 | Friday | 2021 Dec. 03 | 09 am UTC |
