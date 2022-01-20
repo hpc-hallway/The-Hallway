@@ -23,13 +23,11 @@ To make participation possible to as many people as possible, it does change the
 
 | Day | Date  | Time |
 |-----|------|----------|
-| Friday | 2021 Nov. 19 | 05 pm UTC |
-| Friday | 2021 Nov. 26 | 06 pm UTC |
-| Friday | 2021 Dec. 03 | 09 am UTC |
-| Thursday | 2021 Dec. 09 | 04 pm UTC |
-| Thursday | 2021 Dec. 16 | 05 pm UTC |
-| | End of Year Break | |
 | Friday | 2022 Jan. 07 | 04 pm UTC |
 | Friday | 2022 Jan. 14 | 05 pm UTC |
 | Friday | 2022 Jan. 21 | 06 pm UTC |
 | Friday | 2022 Jan. 28 | 09 am UTC |
+| Thursday | 2022 Feb. 03 | 04 pm UTC |
+| Thursday | 2022 Feb. 10 | 05 pm UTC |
+| Thursday | 2022 Feb. 17 | 06 pm UTC |
+| Thursday | 2022 Feb. 24 | 09 am UTC |
