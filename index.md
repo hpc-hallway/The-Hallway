@@ -23,11 +23,11 @@ To make participation possible to as many people as possible, it does change the
 
 | Day | Date  | Time |
 |-----|------|----------|
-| Thursday | 2022 Mar. 31 | 04 pm UTC |
-| Thursday | 2022 Apr. 07 | 05 pm UTC |
-| Thursday | 2022 Apr. 14 | 06 pm UTC |
-| Thursday | 2022 Apr. 21 | 09 am UTC |
 | Friday | 2022 Apr. 29 | 04 pm UTC |
 | Friday | 2022 May  6 | 05 pm UTC |
 | Friday | 2022 May  13 | 06 pm UTC |
 | Friday | 2022 May  20 | 09 am UTC |
+| Thursday | 2022 May. 26 | 04 pm UTC |
+| Thursday | 2022 Jun. 02 | 05 pm UTC |
+| Thursday | 2022 Jun. 09 | 06 pm UTC |
+| Thursday | 2022 Jun. 16 | 09 am UTC |
