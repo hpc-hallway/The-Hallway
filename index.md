@@ -35,3 +35,7 @@ To make participation possible to as many people as possible, it does change the
 | Friday | 2022 July 01 | 05 pm UTC |
 | Friday | 2022 July 08 | 06 pm UTC |
 | Friday | 2022 July 15 | 09 am UTC |
+| Thursday | 2022 July 21 | 04 pm UTC |
+| Thursday | 2022 July 28 | 05 pm UTC |
+| Thursday | 2022 Aug. 04 | 06 pm UTC |
+| Thursday | 2022 Aug. 11 | 09 am UTC |
