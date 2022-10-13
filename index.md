@@ -3,9 +3,9 @@
 A place for **informal discussions** around HPC, AI, Cloud, and related topics.
 We strongly encourage and gladly welcome new people to participate, from any background, recognizing that diversity and inclusivity makes our community better.
 
-The HPC Hallway resulted from the weekly #HPCHuddles started by Andrew Jones [@hpcnotes](https://twitter.com/hpcnotes) on twitter in March 2020.
+The HPC Hallway resulted from the weekly #HPCHuddles started by Andrew Jones [@hpcnotes](https://twitter.com/hpcnotes) on Twitter in March 2020.
 
-### Join our Slack following [the join link](https://join.slack.com/t/hpc-huddle/shared_invite/zt-1ebavltsl-krRdCRVysFlN9xl8TxXcYg)
+### Join our Slack following [the join link](https://join.slack.com/t/hpc-huddle/shared_invite/zt-1hvehn5c4-y3sOawfjbjhWwFy_o~zl0A)
 
 *(If the Slack join link has expired, please send a pull request to update it, otherwise let us know by contacting [@kehoste](https://twitter.com/kehoste) or
 [@jplehr](https://twitter.com/jplehr) on Twitter!)*
