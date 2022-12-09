@@ -23,10 +23,6 @@ To make participation possible to as many people as possible, it does change the
 
 | Day | Date  | Time |
 |-----|------|----------|
-| Thursday | 2022 Sep. 15 | 04 pm UTC |
-| Thursday | 2022 Sep. 22 | 05 pm UTC |
-| Thursday | 2022 Sep. 29 | 06 pm UTC |
-| Thursday | 2022 Oct. 06 | 09 am UTC |
 | Friday | 2022 Oct. 14 | 04 pm UTC |
 | Friday | 2022 Oct. 21 | 05 pm UTC |
 | Friday | 2022 Oct. 28 | 06 pm UTC |
@@ -35,3 +31,5 @@ To make participation possible to as many people as possible, it does change the
 | Thursday | 2022 Nov. 17 | 05 pm UTC |
 | Thursday | 2022 Nov. 24 | 06 pm UTC |
 | Thursday | 2022 Dec. 01 | 09 am UTC |
+| Friday | 2022 Dec. 09 | 04 pm UTC |
+| Friday | 2022 Dec. 16 | 05 pm UTC |
