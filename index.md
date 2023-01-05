@@ -21,15 +21,5 @@ To make participation possible to as many people as possible, it does change the
 
 ### Next Huddles! Add them to your Calendar: [iCal](hpc-hallway.ics)
 
-| Day | Date  | Time |
-|-----|------|----------|
-| Friday | 2022 Oct. 14 | 04 pm UTC |
-| Friday | 2022 Oct. 21 | 05 pm UTC |
-| Friday | 2022 Oct. 28 | 06 pm UTC |
-| Friday | 2022 Nov. 04 | 09 am UTC |
-| Thursday | 2022 Nov. 10 | 04 pm UTC |
-| Thursday | 2022 Nov. 17 | 05 pm UTC |
-| Thursday | 2022 Nov. 24 | 06 pm UTC |
-| Thursday | 2022 Dec. 01 | 09 am UTC |
-| Friday | 2022 Dec. 09 | 04 pm UTC |
-| Friday | 2022 Dec. 16 | 05 pm UTC |
+<iframe src="https://calendar.google.com/calendar/embed?src=nc60mrmd8vsj1qn6p4qeosbcivtrm7fb%40import.calendar.google.com" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
