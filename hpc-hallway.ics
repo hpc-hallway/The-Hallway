@@ -126,7 +126,7 @@ SUMMARY:HPC Huddle
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:hpc-huddle_5_year_anniversary
+UID:hpc-huddle_5_year_anniversary_special
 DTSTAMP:20250325T185048Z
 SUMMARY:5 year anniversary
 DTSTART:20250326T170000Z
