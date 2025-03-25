@@ -6,7 +6,8 @@ We strongly encourage and gladly welcome new people to participate, from any bac
 The HPC Hallway resulted from the weekly #HPCHuddles started by Andrew Jones [@hpcnotes](https://twitter.com/hpcnotes) on Twitter in March 2020.
 
 ## HPC.social community
-Around the start of 2023, the HPC Hallway community merged into HPC.social. [Feel free to drop by!](https://hpc.social/projects/chat/) to join us. We have #hpc-huddle channels on both Slack and Discord there.
+Around the start of 2023, the HPC Hallway community merged into HPC.social. [Feel free to drop by!](https://hpc.social/projects/chat/) to join us.
+We have #hpc-huddle channels on both Slack and Discord there.
 
 ## HPC Huddle
 
